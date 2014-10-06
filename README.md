@@ -1,4 +1,5 @@
 # Translations for the meteor account's messages (almost i18n)
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/LarsBuur/meteor-accounts-t9n?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 This package offers translations for accounts-base, accounts-passwords, accounts-entry, accounts-templates-core and billing. Contributions for other packages are welcome. We try to translate only messages that might pop up at a users screen as developers are expected to understand English errors anyway.
 
